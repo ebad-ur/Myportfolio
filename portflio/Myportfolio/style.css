@@ -1,0 +1,210 @@
+*{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:brown;
+
+
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items:last baseline;
+    padding: 15px 0px;
+    
+}
+
+.navname h2{
+   color:yellowgreen;
+   margin-left: 40px;
+   font-size: 25px;
+   text-align: center;
+}
+
+.navlist{
+    display: flex;
+    margin-right: 50px;
+    gap: 45px; 
+    align-items: last baseline;
+    color: white;
+    
+
+}
+
+.navlist button{
+    padding: 7px 30px;
+    background-color:yellowgreen;
+    border-color: yellowgreen;
+    color: white;
+
+}
+
+.mainbody{
+    display: flex;
+    margin-top: 100px;
+    
+
+}
+
+.first{
+    width: 50%;
+    /* border: 1px solid; */
+    margin-left: 150px;
+    color: white;
+}
+
+.first h2{
+    line-height: 35px;
+    margin-left: 100px;
+}
+
+.first p{
+    margin-top: 30px;
+    line-height: 24px;
+    margin-left: 100px;
+    box-shadow: none;
+}
+
+
+.second{
+    width: 40%;
+    /* border: 1px solid; */
+    position: relative;
+    margin-left: %;
+}
+
+.vector{
+    width: 55%;
+    position: absolute;
+    /* background-color: blueviolet; */
+    
+}
+
+.myimg{
+    width: 40%;
+    position: absolute;
+    left: 50px;
+    bottom: 2px;
+    
+    /* background-color:brown; */
+    /* background-color: brown */
+}
+
+.passions{
+    text-align: center;
+    margin-top: 70px;
+    color: white;
+}
+
+.passionsspan{
+    color:yellowgreen;
+}
+
+.frontend{
+    width: 100%;
+}
+
+.cards{
+    width: 20%;
+    /* border: 1px solid; */
+    box-shadow: rgba(255, 255, 255, 1) 0px 3px 8px;
+
+}
+
+.cardie{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    /* border: 1px solid; */
+    /* text-align: center; */
+    color: white;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+.myproject{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.myproject span{
+    color: yellowgreen;
+}
+
+
+
+
+.myprojectdiv{
+    display: flex;
+    /* border: 1px solid; */
+    justify-content: space-around;
+    margin-top: 20px;
+    width: 80%;
+    margin: auto;
+}
+
+.projects{
+    width: 20%;
+    border: 1px solid;
+    margin-top: 20px;
+    border: none;
+   
+
+
+}
+
+
+.pepsi{
+    width: 100%;
+    /* border: 1px solid; */
+    
+    
+}
+
+.saltnpepper{
+    width: 100%;
+    /* border: 1px solid; */
+
+    
+}
+
+.olx{
+    width: 100%;
+    /* border: 1px solid; */
+    background-color: black;
+    
+}
+
+
+.contactme{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.contactme span{
+    color: yellowgreen;
+}
+
+
+.contactmeicons{
+    margin-top: 20px;
+    text-align: center;
+    ;
+}
+
+
+.contactmeicons img{
+    width: 9%;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+
+
